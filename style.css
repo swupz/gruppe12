@@ -8,10 +8,16 @@
     box-sizing: border-box;
 }
 
+html {
+    height: 100%;
+}
+
 body {
+    height: 100%;
     font-family: 'Source Serif Pro', serif;
     display: grid;
     place-items: center;
+    text-align: center;
 }
 
 a {
